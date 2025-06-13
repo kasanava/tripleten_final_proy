@@ -1,0 +1,11 @@
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+*ipynb
+

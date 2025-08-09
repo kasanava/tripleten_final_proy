@@ -3,7 +3,6 @@
 *.jpg
 *.jpeg
 *.gif
-.env
 
 __pycache__/
 *.pyc
@@ -11,3 +10,4 @@ __pycache__/
 
 
 .gitignore
+.env

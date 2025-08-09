@@ -3,6 +3,7 @@
 *.jpg
 *.jpeg
 *.gif
+*.env
 
 __pycache__/
 *.pyc

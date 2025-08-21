@@ -1,18 +1,17 @@
 # tripleten_final_proy
 
-# 📞 Proyecto Final - Análisis de Eficiencia en Operadores de Telecomunicaciones
-
-Este repositorio contiene el proyecto final de análisis de datos aplicado a una empresa de telecomunicaciones.  
-El objetivo principal fue identificar operadores **eficientes vs. ineficientes**, analizar patrones de llamadas, y validar hipótesis mediante pruebas estadísticas.
-
----
-
 ## 📂 Contenido del repositorio
 
 ### 1. Notebooks de análisis
-- `Descomposicion.ipynb` → Análisis de series temporales (llamadas y duración) con descomposición de tendencia, estacionalidad y residuo.  
-- `Test AB.ipynb` → Prueba A/B sobre experimentos en el flujo de usuarios y métricas de conversión.  
-- `SQL Project.ipynb` → Consultas SQL y análisis exploratorio en base de datos de libros/autores.  
+- `Plan de trabajo - Analisis de desempeño de operadores telefonicos CALLMEMAYBE.ipynb` → Plan de trabajo  de series temporales (llamadas y duración) con descomposición de tendencia, estacionalidad y residuo.  
+- `Analisis de factibilidad de granja de sandias en Brasil.ipynb` → Continuación a Prueba A/B sobre factibilidad de una granja de sandías en Brasil realizada en 2020-2021.  
+- `Analisis de mercado de Libreria.ipynb` → Consultas SQL y análisis exploratorio en base de datos de libros/autores para entender qué mueve al lector moderno, comprender al mercado de libros y generar una propuesta de valor para un nuevo producto.
+- `Analisis de desempeño de operadores telefonicos CALLMEMAYBE.ipynb` → Desarrollo del proyecto de analisis de desempeño de operadores telefonicos de la empresa CallMeMaybe basado en el plan de trabajo expuesto anteriormente.
+
+# 📞 Proyecto Final - Análisis de desempeño de Operadores telefónicos
+
+Este repositorio contiene el proyecto final de análisis de datos aplicado a una empresa de telecomunicaciones.  
+El objetivo principal fue identificar operadores **eficientes vs. ineficientes**, analizar patrones de llamadas, y validar hipótesis mediante pruebas estadísticas.
 
 ### 2. Dashboard interactivo
 - 📊 [Dashboard en Tableau Public](https://public.tableau.com/views/ProyectoFinalTripleTen-KS/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  

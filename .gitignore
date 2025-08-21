@@ -4,6 +4,7 @@
 *.jpeg
 *.gif
 *.env
+*.code-workspace
 
 __pycache__/
 *.pyc
